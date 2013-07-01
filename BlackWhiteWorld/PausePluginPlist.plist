@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundImage</key>
+	<string>pause2.png</string>
+	<key>MusicImage1</key>
+	<string>music1.png</string>
+	<key>MusicImageUse1</key>
+	<string>music1_2.png</string>
+	<key>MusicImage2</key>
+	<string>music2.png</string>
+	<key>MusicImageUse2</key>
+	<string>music2_2.png</string>
+	<key>EffectImage1</key>
+	<string>effect1.png</string>
+	<key>EffectImageUse1</key>
+	<string>effect1_2.png</string>
+	<key>EffectImage2</key>
+	<string>effect2.png</string>
+	<key>EffectImageUse2</key>
+	<string>effect2_2.png</string>
+	<key>HomeImage</key>
+	<string>home.png</string>
+	<key>HomeImageUse</key>
+	<string>home2.png</string>
+	<key>BackImage</key>
+	<string>back1.png</string>
+	<key>BackImageUse</key>
+	<string>back2.png</string>
+	<key>AlignItemsVerticallyWithMenu</key>
+	<string>5</string>
+</dict>
+</plist>

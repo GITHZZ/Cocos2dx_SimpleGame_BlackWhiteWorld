@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ControlImagePreferredSize</key>
+	<string>{64,64}</string>
+	<key>LeftImage</key>
+	<string>left2.png</string>
+	<key>RightImage</key>
+	<string>right2.png</string>
+	<key>UpImage</key>
+	<string>up2.png</string>
+</dict>
+</plist>
